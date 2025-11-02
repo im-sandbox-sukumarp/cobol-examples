@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-04_SUBSTRACT - Python Implementation
+04_SUBTRACT - Python Implementation
 
 A program that demonstrates basic arithmetic subtraction.
 Prompts the user to enter two numbers, subtracts the first from the second,

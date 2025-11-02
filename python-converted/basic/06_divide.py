@@ -45,7 +45,7 @@ def divide_numbers() -> None:
         
         print("Divide as integers:")
         print(f"Result : {result_int}")
-        print(f"Reminder : {remainder_int}")
+        print(f"Remainder : {remainder_int}")
         print()
         
         # Decimal division
@@ -55,7 +55,7 @@ def divide_numbers() -> None:
         
         print("Divide as decimals:")
         print(f"Result : {result_dec:.2f}")
-        print(f"Reminder : {remainder_dec:.2f}")
+        print(f"Remainder : {remainder_dec:.2f}")
         print()
         
     except ValueError:
